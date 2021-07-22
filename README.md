@@ -1,4 +1,9 @@
-### Hi there 👋
+### Welcome on my GitHub profile page!
+
+- Discord: Etil#5133
+- ETH: 0xf2A5f2A7b0CEb523E47C2c5D6A74CFbe9215e92a
+
+![My stats](https://github-readme-stats.vercel.app/api?username=etil2jz&show_icons=true&theme=dark)
 
 <!--
 **etil2jz/etil2jz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
