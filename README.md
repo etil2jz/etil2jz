@@ -1,7 +1,8 @@
-### Welcome on my GitHub profile page!
+## Welcome on my GitHub profile page!
 
-- Discord: Etil#5133
-- ETH: 0xf2A5f2A7b0CEb523E47C2c5D6A74CFbe9215e92a
+- Discord: `Etil#5133`
+- SOL **(preferred)**: `AGUe3xhz9jhP3ZY3R6Xx9bSrG5oyzUBEw1GKnmNtZBzc`
+- ETH *(too much fee)*: `0xECD4a729183FdfB16f3E924f2B7054B311be938B`
 
 ![My stats](https://github-readme-stats.vercel.app/api?username=etil2jz&show_icons=true&theme=dark)
 
