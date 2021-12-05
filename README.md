@@ -1,7 +1,7 @@
 ## Welcome on my GitHub profile page!
 
 - Discord: `Etil#5133`
-- $SOL **(preferred)**: `AGUe3xhz9jhP3ZY3R6Xx9bSrG5oyzUBEw1GKnmNtZBzc`
+- $SOL **(preferred)** : `AGUe3xhz9jhP3ZY3R6Xx9bSrG5oyzUBEw1GKnmNtZBzc`
 - $AVAX : `0x4911aac2b46F65Fae101f7E759689FE68C8930a6`
 
 ![My stats](https://github-readme-stats.vercel.app/api?username=etil2jz&show_icons=true&theme=dark)
